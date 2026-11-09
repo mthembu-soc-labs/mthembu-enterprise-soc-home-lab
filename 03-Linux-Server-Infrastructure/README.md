@@ -28,7 +28,7 @@ This section documents the deployment, configuration, administration, and securi
 - [ ] Firewall configuration
 - [ ] System logging
 - [ ] Wazuh agent integration
-- [ ] Connectivity testing
+- [ ] Connectivity testing 
 
 ## Evidence
 
