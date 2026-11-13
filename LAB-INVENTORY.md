@@ -29,6 +29,20 @@
 | KALI01 | To document | To document | To document | To document | Security testing |
 
 
+### DC01 – Network Adapter Details
+
+| Component | Details |
+|---|---|
+| Hostname | WIN-APQK21C6C62 |
+| Network Adapter | Intel 82574L Gigabit Network Connection |
+| MAC Address | 00-0C-29-BD-EC-4A |
+| IPv4 Address | 192.168.220.129 |
+| Address Assignment | DHCP |
+| DHCP Server | 192.168.220.254 |
+| DNS Server | 192.168.220.2 |
+| Default Gateway | 192.168.220.2 |
+| DNS Suffix | localdomain |
+
 
 ## 4. Installed Technologies
 
