@@ -13,7 +13,8 @@
 
 | VM Name | Operating System | RAM | CPU | Disk | Purpose |
 |---|---|---|---|---|---|
-| DC01 | Windows Server 2022 | To document | To document | To document | Active Directory |
+
+| DC01 | Windows Server 2022 | 4 GB | 2 vCPU | 100 GB | Active Directory |
 | CLIENT01 | Windows 10 Pro | To document | To document | To document | Employee workstation |
 | WAZUH01 | Ubuntu Server | To document | To document | To document | SIEM |
 | KALI01 | Kali Linux | To document | To document | To document | Security testing |
