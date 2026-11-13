@@ -18,15 +18,16 @@
 | WAZUH01 | Ubuntu Server | To document | To document | To document | SIEM |
 | KALI01 | Kali Linux | To document | To document | To document | Security testing |
 
+
 ## 3. Network Configuration
 
+| Device | IP Address | Subnet Mask | Default Gateway | Network Mode | Purpose |
+|---|---|---|---|---|---|
+| DC01 | 192.168.220.129 (DHCP) | 255.255.255.0 | 192.168.220.2 | NAT | Domain Controller |
+| CLIENT01 | To document | To document | To document | NAT | Windows endpoint |
+| WAZUH01 | To document | To document | To document | To document | SIEM |
+| KALI01 | To document | To document | To document | To document | Security testing |
 
-| Device | IP Address | Network Mode | Purpose |
-|---|---|---|---|
-| DC01 | To document | NAT | Domain Controller |
-| CLIENT01 | To document | NAT | Windows endpoint |
-| WAZUH01 | To document | To document | SIEM |
-| KALI01 | To document | To document | Security testing |
 
 
 ## 4. Installed Technologies
