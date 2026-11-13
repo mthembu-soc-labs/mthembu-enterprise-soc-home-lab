@@ -24,7 +24,7 @@
 | Device | IP Address | Subnet Mask | Default Gateway | Network Mode | Purpose |
 |---|---|---|---|---|---|
 | DC01 | 192.168.220.129 (DHCP) | 255.255.255.0 | 192.168.220.2 | NAT | Domain Controller |
-| CLIENT01 | To document | To document | To document | NAT | Windows endpoint |
+| CLIENT01 | 192.168.220.130 (DHCP) | 255.255.255.0 | 192.168.220.2 | NAT | Windows endpoint |
 | WAZUH01 | To document | To document | To document | To document | SIEM |
 | KALI01 | To document | To document | To document | To document | Security testing |
 
@@ -37,6 +37,21 @@
 | Network Adapter | Intel 82574L Gigabit Network Connection |
 | MAC Address | 00-0C-29-BD-EC-4A |
 | IPv4 Address | 192.168.220.129 |
+| Address Assignment | DHCP |
+| DHCP Server | 192.168.220.254 |
+| DNS Server | 192.168.220.2 |
+| Default Gateway | 192.168.220.2 |
+| DNS Suffix | localdomain |
+
+
+### CLIENT01 – Network Adapter Details
+
+| Component | Details |
+|---|---|
+| Hostname | DESKTOP-SAJHSD |
+| Network Adapter | Intel 82574L Gigabit Network Connection |
+| MAC Address | 00-0C-29-F4-BB-79 |
+| IPv4 Address | 192.168.220.130 |
 | Address Assignment | DHCP |
 | DHCP Server | 192.168.220.254 |
 | DNS Server | 192.168.220.2 |
