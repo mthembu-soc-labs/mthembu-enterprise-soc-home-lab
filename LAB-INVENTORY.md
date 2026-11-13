@@ -20,12 +20,14 @@
 
 ## 3. Network Configuration
 
-| Device | IP Address | Purpose |
-|---|---|---|
-| DC01 | To document | Domain Controller |
-| WAZUH01 | To document | SIEM |
-| CLIENT01 | To document | Windows endpoint |
-| KALI01 | To document | Security testing |
+
+| Device | IP Address | Network Mode | Purpose |
+|---|---|---|---|
+| DC01 | To document | NAT | Domain Controller |
+| CLIENT01 | To document | NAT | Windows endpoint |
+| WAZUH01 | To document | To document | SIEM |
+| KALI01 | To document | To document | Security testing |
+
 
 ## 4. Installed Technologies
 
