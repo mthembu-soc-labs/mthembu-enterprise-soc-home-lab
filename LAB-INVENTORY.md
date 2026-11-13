@@ -4,7 +4,7 @@
 
 | Component | Details |
 |---|---|
-| Virtualization platform | VMware Workstation Pro 17 |
+| Virtualization platform | VMware Workstation Pro 17.6.4 (Build 24832109) |
 | Host operating system | Windows 11 |
 | Project type | Medium-sized enterprise simulation |
 | Project owner | Mcebisi Mthembu |
